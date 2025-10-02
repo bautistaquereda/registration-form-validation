@@ -1,4 +1,4 @@
-# :pencil: Registration Form Validation
+# :pencil: Registration form with validations
 
 Registration form created in **HTML** and **CSS** with validations in **JavaScript**.  
 Includes email format validation, password requirements, and confirmation password matching with error messages.
